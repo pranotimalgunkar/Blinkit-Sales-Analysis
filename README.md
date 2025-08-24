@@ -8,7 +8,7 @@
 
 
 ##Dataset Overview
-Dataset:
+Dataset: https://github.com/pranotimalgunkar/Blinkit-Sales-Analysis/blob/main/BlinkIT%20Grocery%20Data.csv
 Rows: 8,523
 Columns: 12
 File Type: CSV
